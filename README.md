@@ -8,11 +8,13 @@ A 12-week self-study plan to go from fundamentals to a deployed React app. Track
 ![JavaScript](https://img.shields.io/badge/JavaScript-pending-f7df1e)
 ![React](https://img.shields.io/badge/React-pending-61dafb)
 
+
+
 ## 📚 Sources
-- HTML Crash Course
-- CSS Crash Course
-- JavaScript Course
-- React Course
+- HTML Crash Course :-  https://youtu.be/kUMe1FH4CHE?si=o3y4BT89L5vOC-8O
+- CSS Crash Course :- https://youtu.be/OXGznpKZ_sA?si=kGX4J8zFME25tZXa
+- JavaScript Course :- https://youtu.be/lfmg-EJ8gm4?si=1oDBB_Jv6JYis9RY 
+- React Course :- https://youtu.be/TtPXvEcE11E?si=oEqyJ1_32jJ_OhRV
 
 ## 🗺️ Roadmap
 
